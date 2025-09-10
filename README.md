@@ -42,7 +42,7 @@ Functions that were mimicked and restrictions:
         s: The string to iterate over.
         f: The function to apply to each character.
 
-** Usage of write() was allowed to:**
+**Usage of write() was allowed to:**
 
     • ft_putchar_fd - Prototype: void ft_putchar_fd(char c, int fd);
         c: The character to output.
